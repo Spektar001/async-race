@@ -1,4 +1,6 @@
 # async-race-api
+Deploy link: https://spektar001-async-race.netlify.app/
+
 Api for Rolling Scopes School task "Async Race".
 
 ## Setup and Running
